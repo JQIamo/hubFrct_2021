@@ -1,4 +1,4 @@
-# hubFriction2021
+# hubFrct_2021
 Data and data analysis codes for the [Hubble Friction Experiment](https://arxiv.org/abs/2107.08097).
 
 ## Contents
