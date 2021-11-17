@@ -11,7 +11,7 @@ This code was tested with MATLAB R2020a and R2020b
 
 ## Getting Started
 - Clone this repository. 
-```git clone https://github.com/JQIamo/hubFriction2021 <lcl_dir>```
+```git clone https://github.com/JQIamo/hubFrct_2021 <lcl_dir>```
 - Run the script `main.m` to generate the values in Tab.I and Tab.II of the supplemental material. Set the input variable `sets` to `expansions` or`contractions` to generate the appropriate table.
 
 ​	
